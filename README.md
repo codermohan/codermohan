@@ -5,7 +5,7 @@
   📚 Open-Source Enthusiast</h1>
 
 <h2> 💫 About Me : </h2>
-  • USA Lives in USA - Valparaiso/INDIANA.<br>
+  • Lives in USA - Valparaiso/IN.<br>
   • 📧 Contact me at mohankrishnan802@gmail.com<br>
   • 👨‍💻 I’m currently learning AWS. <br>
   • 💬 Ask me about IT. <br>
