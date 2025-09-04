@@ -7,8 +7,8 @@
 <h2> 💫 About Me : </h2>
   • Lives in USA - Chicago/IL.<br>
   • 📧 Contact me at mohankrishnan802@gmail.com<br>
-  • 👨‍💻 I’m currently learning AWS. <br>
-  • 💬 Ask me about IT. <br>
+  • 👨‍💻 I’m currently learning AWS & OCI. <br>
+  • 💬 Ask me about Cloud & IT related doubts. <br>
   • 🧿 View my <a href="https://mohankrishnanamburi.netlify.app/" target="_blank">Portfolio</a><br>
   • 🤝 I'm open to collaborating and working on projects together.
 <br>
